@@ -3,7 +3,7 @@ print("Velkommen til Udvidet netværksteknologi")
 print("Vi skal lære Python, test og netværk.")
 navn = str (input("Dit navn: "))
 alder = int(input("Din alder: "))
-uddannelse1 = "Udvidet netværksteknologi"
+uddannelse = "Udvidet netværksteknologi"
 print("Jeg hedder", navn)
 print("Jeg er", alder, "år")
-print("Jeg studerer ", uddannelse1)
+print("Jeg studerer ", uddannelse)
